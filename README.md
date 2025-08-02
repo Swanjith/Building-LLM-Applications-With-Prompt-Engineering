@@ -1,6 +1,6 @@
 # Building LLM Applications With Prompt Engineering
 
-![NVIDIA Logo](https://upload.wikimedia.org/wikipedia/commons/0/0d/Nvidia_logo.png)
+![NVIDIA Logo]([https://upload.wikimedia.org/wikipedia/commons/0/0d/Nvidia_logo.png](https://github.com/Swanjith/Building-LLM-Applications-With-Prompt-Engineering/blob/main/nvidia_header.png?raw=true))
 
 **Certification:** Completed via [NVIDIA Deep Learning Institute (DLI)](https://courses.nvidia.com/)  
 **Course:** Building LLM Applications with Prompt Engineering
