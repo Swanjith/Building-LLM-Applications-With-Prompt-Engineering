@@ -38,6 +38,7 @@ This project demonstrates concepts and practical applications covered in the NVI
 | Deployment       | NVIDIA Triton, Docker, NGC                       |
 
 ---
+ ```bash
 # 1. Create a Python environment
 conda create -n llm-course python=3.10
 conda activate llm-course
@@ -47,5 +48,5 @@ pip install langchain streamlit openai faiss-cpu chromadb
 
 # 3. Run the app
 streamlit run ui/chat_app.py
-
+```
 ---
