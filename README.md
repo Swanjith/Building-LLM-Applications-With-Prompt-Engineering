@@ -48,4 +48,4 @@ pip install langchain streamlit openai faiss-cpu chromadb
 # 3. Run the app
 streamlit run ui/chat_app.py
 
-
+---
