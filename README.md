@@ -2,8 +2,6 @@
 
 ![NVIDIA Header](https://github.com/Swanjith/Building-LLM-Applications-With-Prompt-Engineering/blob/main/nvidia_header.png?raw=true)
 
-**Certification:** Completed via [NVIDIA Deep Learning Institute (DLI)](https://courses.nvidia.com/)  
-**Author:** Swanjith Kumar  
 **Course:** Building LLM Applications with Prompt Engineering
 
 ---
@@ -40,6 +38,14 @@ This project demonstrates concepts and practical applications covered in the NVI
 | Deployment       | NVIDIA Triton, Docker, NGC                       |
 
 ---
+# 1. Create a Python environment
+conda create -n llm-course python=3.10
+conda activate llm-course
 
-## Project Structure
+# 2. Install dependencies
+pip install langchain streamlit openai faiss-cpu chromadb
+
+# 3. Run the app
+streamlit run ui/chat_app.py
+
 
